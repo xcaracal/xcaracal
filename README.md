@@ -69,6 +69,28 @@ When I'm not coding, I love to:
 
 </div>
 
+## 🔝 Top Languages
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsteven&layout=compact&theme=radical)](https://github.com/hoangsteven)
+
+</div>
+
+## 🔥 GitHub Streak
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsteven&theme=radical)
+
+</div>
+
+## 👀 Visitors
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/{hoangsteven}/count.svg)
+
+</div>
+
+
 ## 📫 How to reach me
 <div align="center">
 
