@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yo, I'm Steven Hoang 🤘
+# Helloooo, I'm Steven Hoang 🤘
 
 🎓 Graduating from University of California, Riverside <br>
 💻 Full-stack developer <br>
