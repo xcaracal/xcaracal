@@ -59,6 +59,11 @@ When I'm not coding, I love to:
 -  Learn choreo to dances 🕺
 -  Try different foods 🍣
 -  Take cute pictures of places I go to 📸
+-  Play games 🎮
+
+![](https://github.com/Your_Repository_Name/tighnari.gif)
+  
+  
 
 </div>
 
