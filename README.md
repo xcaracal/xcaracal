@@ -3,7 +3,7 @@
 # Helloooo, I'm Steven Hoang 🤘
 
 🎓 Graduating from University of California, Riverside <br>
-💻 Full-stack developer <br>
+💻 Full-stack developer [In Progress] <br>
 🍔 Food enthusiast <br>
 🤝 Active member of various organizations <br>
 
@@ -40,13 +40,13 @@ Here are some of the projects that I'm most proud of:
 <div align="center">
 
 <a href="https://github.com/teamrocketuno/flushfinder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamrocketuno&repo=flushfinder&theme=radical" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=teamrocketuno&repo=flushfinder&theme=radical" />
 </a>
 <a href="https://github.com/TeamFoodies/WhatsGood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teamfoodies&repo=whatsgood&theme=radical" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=teamfoodies&repo=whatsgood&theme=radical" />
 </a>
 <a href="https://github.com/xcaracal/CS179J_FINAL_PROJECT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xcaracal&repo=cs179j_final_project&theme=radical" />
+  <img align="center" height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=xcaracal&repo=cs179j_final_project&theme=radical" />
 </a>
 
 </div>
@@ -65,28 +65,28 @@ When I'm not coding, I love to:
 ## 📈 GitHub Stats
 <div align="center">
 
-[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangsteven&count_private=true&show_icons=true&theme=radical)](https://github.com/hoangsteven)
+[![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcaracal&count_private=true&show_icons=true&theme=radical)](https://github.com/hoangsteven)
 
 </div>
 
 ## 🔝 Top Languages
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsteven&layout=compact&theme=radical)](https://github.com/hoangsteven)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcaracal&layout=compact&theme=radical)](https://github.com/xcaracal)
 
 </div>
 
 ## 🔥 GitHub Streak
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsteven&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xcaracal&theme=radical)
 
 </div>
 
 ## 👀 Visitors
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/{hoangsteven}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{xcaracal}/count.svg)
 
 </div>
 
