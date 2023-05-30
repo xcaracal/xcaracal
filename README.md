@@ -61,7 +61,7 @@ When I'm not coding, I love to:
 -  Take cute pictures of places I go to 📸
 -  Play games 🎮
 
-![](https://github.com/xcaracal/xcaracal/blob/main/sumeru.gif)
+![](https://github.com/xcaracal/xcaracal/blob/main/pompom.gif)
   
   
 
