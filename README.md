@@ -2,7 +2,7 @@
 
 # Helloooo, I'm Steven Hoang 🤘
 
-🎓 Graduating from University of California, Riverside <br>
+🎓 Graduate from University of California, Riverside <br>
 💻 Full-stack developer [In Progress] <br>
 🍔 Food enthusiast <br>
 🤝 Active member of various organizations <br>
